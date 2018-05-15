@@ -23,4 +23,20 @@
 
 - contact
 
----------------------------------------------------------------------
+<hr>
+
+<h1>Real-time DATA</h1>
+
+- cointicker voor top 20 volumes / % change / price / namz / graph (1hr/24hrs/7days)
+
+<hr>
+
+- open for suggestion...
+
+<hr>
+
+AFK meeting
+
+<hr>
+
+
