@@ -1,9 +1,11 @@
 # to-do-list
 
 2do
-----------------------------------------------------------------------
+<hr>
 
-- nav section - buttons
+<h1> nav section - buttons </h1>
+
+- home
 
 - news
 
